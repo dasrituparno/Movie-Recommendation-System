@@ -54,16 +54,16 @@
 <p align="center">
   <a href="https://arya920.github.io/My_Portfolio/">
     <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">
+    Arya Chakraborty
   </a>
   <br>
-  [Arya Chakraborty](https://arya920.github.io/My_Portfolio/)
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
     <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250">
+    Rituparno Das
   </a>
   <br>
-  [Rituparno Das](https://www.linkedin.com/in/rituparno-das-473a01198/)
 </p>
 
