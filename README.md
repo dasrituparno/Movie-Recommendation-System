@@ -50,6 +50,6 @@
 ## Credits 
 
 <p align="center">
-  <img src="git_cut.jpg" alt="Arya Chakraborty" width="200">
-  <img src="gir_ritu.jpg" alt="Rituparno Das" width="200">
+  <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="200">
+  <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="200">
 </p>
