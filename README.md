@@ -66,7 +66,9 @@
 
 
 ## Credits  
-
+<!DOCTYPE html>
+<html>
+<head>
 <style>
   .container {
     display: flex;
@@ -82,6 +84,9 @@
     width: 250px;
   }
 </style>
+</head>
+<body>
+
 <div class="container">
   <div class="person">
     <a href="https://arya920.github.io/My_Portfolio/">
@@ -97,3 +102,8 @@
     <p><a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a></p>
   </div>
 </div>
+
+</body>
+</html>
+
+
