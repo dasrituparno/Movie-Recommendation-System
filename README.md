@@ -65,45 +65,17 @@
 </p> -->
 
 
-## Credits  
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .person {
-    text-align: center;
-    margin: 10px;
-  }
-
-  .person img {
-    width: 250px;
-  }
-</style>
-</head>
-<body>
-
-<div class="container">
-  <div class="person">
-    <a href="https://arya920.github.io/My_Portfolio/">
-      <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty">
-    </a>
-    <p><a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a></p>
-  </div>
-  
-  <div class="person">
-    <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
-      <img src="Rituparno_Das.jpg" alt="Rituparno Das">
-    </a>
-    <p><a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a></p>
-  </div>
-</div>
-
-</body>
-</html>
-
+<p align="center">
+  <a href="https://arya920.github.io/My_Portfolio/">
+    <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">  
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between images -->
+ <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
+    <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250"> 
+  </a>
+  <br>
+  <a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a>
+  <!-- Add some space between images -->
+  <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a>
+</p>
 
