@@ -73,7 +73,7 @@
     <br>
     <span>Arya Chakraborty</span>
   </a>
-  <span style="margin: 0 20px;">&nbsp;&nbsp;</span> <!-- Add some space between -->
+  <span style="margin: 0 100px;">&nbsp;&nbsp;</span> <!-- Add some space between -->
   <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
     <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="150">
     <br>
