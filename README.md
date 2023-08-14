@@ -47,9 +47,7 @@
 - The app is deployed using Streamlit sharing.
 - Feel free to explore and enjoy movie recommendations tailored to your taste!
 
-## Credits 
-
-## Credits 
+## Credits  
 
 <p align="center">
   <a href="https://arya920.github.io/My_Portfolio/">
