@@ -49,4 +49,4 @@
 
 ## Credits 
 
-[Arya Chakraborty](https://github.com/Arya920/Movie-Recommendation-System/blob/main/Arya_pic.jpg)
+![Arya Chakraborty](Arya_pic.jpg)
