@@ -23,7 +23,7 @@
    ```bash
    streamlit run app.py
 
-  ## Functionalities
+ ## Functionalities
 
 - Recommends movies based on user's selection and preferences.
 - Provides two recommendation options: based on movies and based on genres.
