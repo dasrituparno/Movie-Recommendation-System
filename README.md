@@ -49,7 +49,7 @@
 
 ## Credits  
 
-<p align="center">
+<p align="left">
   <a href="https://arya920.github.io/My_Portfolio/">
     <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="150">
    Arya Chakraborty
@@ -57,7 +57,7 @@
   <br>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
     <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="150">
    Rituparno Das
