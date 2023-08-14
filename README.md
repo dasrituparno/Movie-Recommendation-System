@@ -67,19 +67,19 @@
 
 ## Credits  
 
-<table>
-  <tr>
-    <td align="center" style="padding-right: 20px;">
-      <a href="https://arya920.github.io/My_Portfolio/">
-        <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">
-      </a>
-      <p><a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a></p>
-    </td>
-    <td align="center" style="padding-left: 20px;">
-      <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
-        <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250">
-      </a>
-      <p><a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center;">
+    <a href="https://arya920.github.io/My_Portfolio/">
+      <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">
+    </a>
+    <p><a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
+      <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250">
+    </a>
+    <p><a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a></p>
+  </div>
+</div>
+
