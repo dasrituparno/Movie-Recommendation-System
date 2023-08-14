@@ -67,19 +67,33 @@
 
 ## Credits  
 
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px; text-align: center;">
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .person {
+    text-align: center;
+    margin: 10px;
+  }
+
+  .person img {
+    width: 250px;
+  }
+</style>
+<div class="container">
+  <div class="person">
     <a href="https://arya920.github.io/My_Portfolio/">
-      <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">
+      <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty">
     </a>
     <p><a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a></p>
   </div>
   
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
+  <div class="person">
     <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
-      <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250">
+      <img src="Rituparno_Das.jpg" alt="Rituparno Das">
     </a>
     <p><a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a></p>
   </div>
 </div>
-
