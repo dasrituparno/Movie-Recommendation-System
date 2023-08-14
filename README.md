@@ -49,5 +49,7 @@
 
 ## Credits 
 
-![Arya Chakraborty](Arya_pic.jpg)
-![Rituparno Das](gir_ritu.jpg)
+<p align="center">
+  <img src="Arya_pic.jpg" alt="Arya Chakraborty" width="150">
+  <img src="gir_ritu.jpg" alt="Rituparno Das" width="150">
+</p>
