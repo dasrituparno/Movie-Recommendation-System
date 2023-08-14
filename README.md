@@ -29,7 +29,7 @@
 - Provides two recommendation options: based on movies and based on genres.
 - Displays movie posters and titles for the recommended movies.
 
-  ## Technologies & Concepts required
+## Technologies & Concepts required
 - Python
 - Streamlit
 - scikit-learn
