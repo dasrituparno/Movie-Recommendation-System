@@ -54,7 +54,7 @@
   <a href="https://arya920.github.io/My_Portfolio/">
     <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">  
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between images -->
+   <!-- Add some space between images -->
   <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
     <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250"> 
   </a>
