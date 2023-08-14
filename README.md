@@ -65,21 +65,22 @@
   <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a>
 </p>
 
-## Credits 
-<p>
-  <p align="left">
+## Credits  
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
     <a href="https://arya920.github.io/My_Portfolio/">
       <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="150">
     </a>
     <br>
     <a href="https://arya920.github.io/My_Portfolio/">Arya Chakraborty</a>
-  </p>
-
-  <p align="right">
+  </div>
+  
+  <div>
     <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
       <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="150">
     </a>
     <br>
     <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">Rituparno Das</a>
-  </p>
-</p>
+  </div>
+</div>
